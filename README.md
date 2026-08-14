@@ -8,7 +8,7 @@ aplicação completa entregue na Aula 20. O enunciado completo do case está em
 
 ## Identificação
 
-- Nome completo:
-- RA:
-- Turma: (quarta ou quinta)
-- O que espero aprender:
+- Nome completo: Jennifer Souza de Oliveira
+- RA:926112013
+- Turma: quinta
+- O que espero aprender: espero aprender a codificar e manter isso no dia a dia
