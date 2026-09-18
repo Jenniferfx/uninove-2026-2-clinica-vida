@@ -12,3 +12,5 @@ aplicação completa entregue na Aula 20. O enunciado completo do case está em
 - RA:926112013
 - Turma: quinta
 - O que espero aprender: espero aprender a codificar e manter isso no dia a dia
+ls
+claer
